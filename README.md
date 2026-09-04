@@ -28,6 +28,7 @@
 ```yaml
 name: Sarvasya
 handle: "@sarvasya"
+education : IIT BHU
 location: India 🇮🇳
 role: Full Stack Developer
 status: Open to collaborate 🟢
